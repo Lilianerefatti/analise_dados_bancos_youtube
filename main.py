@@ -1,3 +1,10 @@
+# main.py
+"""
+Este script foi desenvolvido exclusivamente para fins de estudo e aprendizado.
+Todos os dados coletados são provenientes da API pública do YouTube e são utilizados
+de acordo com os termos de uso da plataforma. Não há intenção comercial ou violação
+de direitos autorais."""
+
 # Importação de bibliotecas
 import os
 from googleapiclient.discovery import build
