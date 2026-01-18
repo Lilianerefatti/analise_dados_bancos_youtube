@@ -19,6 +19,11 @@ Como os canais de bancos no YouTube se comportam em termos de engajamento
 e crescimento, e quais padrões podem ser identificados?
 
 ---
+## Aplicação prática
+Os insights obtidos podem apoiar decisões de marketing digital
+e estratégia de conteúdo para instituições financeiras.
+
+---
 
 ## 🖥️ Dados Utilizados
 
@@ -70,6 +75,17 @@ O projeto demonstra como dados de mídias digitais podem ser analisados
 para apoiar decisões estratégicas de marketing e comunicação.
 
 --- 
+
+## 📸 Imagens
+![bradesco](https://github.com/user-attachments/assets/504e1a47-ae6c-4f95-9acb-d88333ae626e)
+
+![Itau](https://github.com/user-attachments/assets/0bc9fc87-50fa-4390-9c3d-d8339ecb9b7c)
+
+![nubank](https://github.com/user-attachments/assets/3cdf15f9-d0e2-4fc3-b8c3-167594dc3d85)
+
+![c6bank](https://github.com/user-attachments/assets/449e40e9-41ec-4b0c-9c39-7c425da6fc81)
+
+---
 
 ### 💡 Melhorias Futuras
 Aqui estão algumas ideias para expandir o projeto:
