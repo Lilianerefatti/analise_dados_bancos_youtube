@@ -1,5 +1,10 @@
-# 🏦 Análise de Dados de Bancos no YouTube
+<h1 align="center"> 🏦 Análise de Dados de Bancos no YouTube </h1>
 
+<p align="center"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NpY3NzZWYyMXE0b29uYmNneXM3OW1ka295bDR3MWk2dHlkbGg0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="300">
+</p>
+
+---
 ## Contexto de Negócio
 
 Instituições financeiras utilizam o YouTube como canal de comunicação,
