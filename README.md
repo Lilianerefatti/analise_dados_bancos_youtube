@@ -1,4 +1,4 @@
-# Análise de Dados de Bancos no YouTube
+# 🏦 Análise de Dados de Bancos no YouTube
 
 ## Contexto de Negócio
 
